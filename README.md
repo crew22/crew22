@@ -4,13 +4,13 @@
 
 ## Hakkımızda
 
-- [crew22]
+- crew22
   - [Hakkımızda](#hakkımızda)
-  - [Aktif projelerimiz](#active-projects)
-  - [Geçmiş projelerimiz](#inactive-projects)
-  - [Hizmetlerimiz](#services)
-  - [İletişim](#contact)
-  - [İş ortakları](#partners)
+  <!-- - [Aktif projelerimiz](#active-projects)
+  - [Geçmiş projelerimiz](#inactive-projects) -->
+  - [Hizmetlerimiz](#hizmetlerimiz)
+  - [İş ortakları](#iş-ortakları)
+  - [İletişim](#iletişim)
 
 ### Hakkımızda
 
@@ -47,13 +47,13 @@ crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştir
 - Karşılama sayfaları ve tek sayfa uygulamalar (örn. [crew22.dev](https://crew22.dev))
 - API gibi backend servisleri
 
-### İş ortakları {#partners}
+### İş ortakları
 
 - [twitch.tv/quadria | Quadria Mapping](https://discord.gg/pH25AAJD)
 - [Nasyo-V](https://discord.gg/NsNqYpVY)
 - LifeZone W.I.P (Soon...)
 
-### İletişim {#contact}
+### İletişim
 
 **İnternet Sitemiz:** [crew22.dev](https://crew22.dev)
 **Mail:** [crew22project@gmail.com](mailto:crew22project@gmail.com)
