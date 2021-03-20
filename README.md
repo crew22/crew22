@@ -25,7 +25,7 @@ Boş
 
 Boş -->
 
-### Hizmetlerimiz {#hizmetlerimiz-services}
+### Hizmetlerimiz {#services}
 
 crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştiriyoruz. Şu anda geliştirdiğimiz projeler:
 
