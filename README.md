@@ -3,7 +3,7 @@
 ## Hakkımızda
 
 - crew22
-  - [Biz kimiz?](#biz-kimiz?)
+  - [Biz kimiz?](#biz-kimiz)
   <!-- - [Aktif projelerimiz](#active-projects)
   - [Geçmiş projelerimiz](#inactive-projects) -->
   - [Hizmetlerimiz](#hizmetlerimiz)
