@@ -5,13 +5,13 @@
 ## Hakkımızda
 
 - [crew22](#crew22)
-  - [Hakkımızda](#hakkımızda)
-  - [crew22, biz kimiz?](#who-are-we)
-  - [Aktif projelerimiz](#active-projects)
-  - [Geçmiş projelerimiz](#inactive-projects)
-  - [Hizmetlerimiz](#services)
-  - [İletişim](#contact)
-  - [İş ortakları](#partners)
+  - [Hakkımızda](###hakkımızda)
+  - [crew22, biz kimiz?](###who-are-we)
+  - [Aktif projelerimiz](###active-projects)
+  - [Geçmiş projelerimiz](###inactive-projects)
+  - [Hizmetlerimiz](###services)
+  - [İletişim](###contact)
+  - [İş ortakları](###partners)
 
 ### crew22, biz kimiz? {#who-are-we}
 
