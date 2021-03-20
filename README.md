@@ -21,7 +21,7 @@
 
 Boş
 
-### Geçmiş projelerimiz {#inactive-projects}
+### Geçmiş projelerimiz (#inactive-projects)
 
 Boş -->
 
