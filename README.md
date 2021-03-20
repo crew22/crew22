@@ -10,7 +10,7 @@
   - [İş ortakları](#iş-ortakları)
   - [İletişim](#iletişim)
 
-### Hakkımızda
+### Biz kimiz?
 
 **crew22**'nin olayı insanların yazılım projelerini efektif bir şekilde hayata geçirmesini sağlamakla birlikte **crew22**'ye ait olan projeleri gerçekleştirerek birçok konuda çözüm sağlamak. 2 kişilik bir ekip ile yol almaya başladık ve şu anda *JavaScript* üzerinden geliştirilen projelerimiz ile her gün yeni şeyler deniyoruz.
 
@@ -22,7 +22,7 @@ Boş
 
 Boş -->
 
-### Biz kimiz?
+### Hizmetlerimiz
 crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştiriyoruz. Şu anda geliştirdiğimiz projeler:
 
 - Tamamen özelleştirilebilir Discord botları <details>
