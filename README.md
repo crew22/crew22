@@ -34,7 +34,7 @@ crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştir
       <li> Detaylı log</li>
       <li> Küfür ve link engelleme</li>
       <li> Uyarı sistemi</li>
-      <li> FiveM sunucuları için kayıt sistemi</li>
+      <li> FiveM sunucuları için kayıt sistemi (Topluluk sunucularınıza uyarlanabilir)</li>
       <li> Moderasyon komutları (sustur, yasakla vb.)</li>
       <li> Seviye ve seviyeye göre rol verme (Yakında)</li>
       <li> + Özel istek üzerine özel planlanmış sistemler</li>
