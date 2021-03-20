@@ -53,9 +53,9 @@ crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştir
 
 ### İletişim
 
-**İnternet Sitemiz:** [crew22.dev](https://crew22.dev) <br>
-**Mail:** [crew22project@gmail.com](mailto:crew22project@gmail.com) <br>
-**Kurucuların siteleri:** [umutdev.xyz](https://umutdev.xyz) & [ataegeasilturk.com](https://ataegeasilturk.com)
-#### Sosyal Medya:
+- **İnternet Sitemiz:** [crew22.dev](https://crew22.dev) <br> 
+- **Mail:** [crew22project@gmail.com](mailto:crew22project@gmail.com) <br>
+- **Kurucuların siteleri:** [umutdev.xyz](https://umutdev.xyz) & [ataegeasilturk.com](https://ataegeasilturk.com)
+- #### Sosyal Medya:
   - [Discord](https://discord.gg/uqWF7kUQft)
   - [Twitter](https://twitter.com/crew22dev)
