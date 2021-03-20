@@ -13,7 +13,7 @@
   - [İletişim](#contact)
   - [İş ortakları](#partners)
 
-### crew22, biz kimiz? {#who-are-we}
+### crew22, biz kimiz? (#who-are-we)
 
 **crew22**'nin olayı insanların yazılım projelerini efektif bir şekilde hayata geçirmesini sağlamakla birlikte **crew22**'ye ait olan projeleri gerçekleştirerek birçok konuda çözüm sağlamak. 2 kişilik bir ekip ile yol almaya başladık ve şu anda *JavaScript* üzerinden geliştirilen projelerimiz ile her gün yeni şeyler deniyoruz.
 
