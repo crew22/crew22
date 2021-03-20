@@ -3,7 +3,7 @@
 ## Hakkımızda
 
 - crew22
-  - [Hakkımızda](#hakkımızda)
+  - [Biz kimiz?](#biz-kimiz?)
   <!-- - [Aktif projelerimiz](#active-projects)
   - [Geçmiş projelerimiz](#inactive-projects) -->
   - [Hizmetlerimiz](#hizmetlerimiz)
@@ -22,7 +22,7 @@ Boş
 
 Boş -->
 
-### Hizmetlerimiz
+### Biz kimiz?
 crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştiriyoruz. Şu anda geliştirdiğimiz projeler:
 
 - Tamamen özelleştirilebilir Discord botları <details>
