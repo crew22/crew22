@@ -7,8 +7,8 @@
   <!-- - [Aktif projelerimiz](#active-projects)
   - [Geçmiş projelerimiz](#inactive-projects) -->
   - [Hizmetlerimiz](#hizmetlerimiz)
-  - [İş ortakları](#iş-ortakları)
-  - [İletişim](#iletişim)
+  - [İş ortakları](#i--ortaklar-)
+  - [İletişim](#ileti-m)
 
 ### Biz kimiz?
 
