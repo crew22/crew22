@@ -23,7 +23,7 @@ Boş
 Boş -->
 
 ### Hizmetlerimiz
-crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştiriyoruz. Şu anda geliştirdiğimiz projeler:
+crew22 olarak müsterilerimizin istekleri doğrultusunda projeler geliştiriyoruz. Şu anda geliştirdiğimiz projeler:
 
 - <a href="https://github.com/orgs/crew22/projects/1" target="_blank">Tamamen özelleştirilebilir Discord botları</a> <details>
     <ul>
