@@ -25,7 +25,7 @@ Boş -->
 ### Hizmetlerimiz
 crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştiriyoruz. Şu anda geliştirdiğimiz projeler:
 
-- [Tamamen özelleştirilebilir Discord botları](https://github.com/orgs/crew22/projects/1) <details>
+- <a href="https://github.com/orgs/crew22/projects/1" target="_blank">Tamamen özelleştirilebilir Discord botları</a> <details>
     <ul>
       <li> Bot tarafından gönderilen mesajlar </li>
       <li> Hoşgeldin mesajı ve otomatik rol</li>
