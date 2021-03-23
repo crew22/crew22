@@ -25,7 +25,7 @@ Boş -->
 ### Hizmetlerimiz
 crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştiriyoruz. Şu anda geliştirdiğimiz projeler:
 
-- Tamamen özelleştirilebilir Discord botları <details>
+- [Tamamen özelleştirilebilir Discord botları](https://github.com/orgs/crew22/projects/1) <details>
     <ul>
       <li> Bot tarafından gönderilen mesajlar </li>
       <li> Hoşgeldin mesajı ve otomatik rol</li>
@@ -53,8 +53,8 @@ crew22 olarak müşterilerimizinizin istekleri doğrultusunda projeler geliştir
 
 ### İletişim
 
-- **İnternet Sitemiz:** [crew22.dev](https://crew22.dev) <br> 
-- **Mail:** [crew22project@gmail.com](mailto:crew22project@gmail.com) <br>
+- **İnternet Sitemiz:** [crew22.dev](https://crew22.dev)
+- **Mail:** [crew22project@gmail.com](mailto:crew22project@gmail.com)
 - **Kurucuların siteleri:** [umutdev.xyz](https://umutdev.xyz) & [ataegeasilturk.com](https://ataegeasilturk.com)
 - **Sosyal Medya:**
   - [Discord](https://discord.gg/uqWF7kUQft)
