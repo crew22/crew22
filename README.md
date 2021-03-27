@@ -50,6 +50,7 @@ crew22 olarak müsterilerimizin istekleri doğrultusunda projeler geliştiriyoru
 - [twitch.tv/quadria | Quadria Mapping](https://discord.gg/pH25AAJD)
 - [Nasyo-V](https://discord.gg/NsNqYpVY)
 - LifeZone W.I.P (Soon...)
+- [sandRP](https://discord.gg/zMJZWAADg3)
 
 ### İletişim
 
